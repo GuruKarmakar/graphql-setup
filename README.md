@@ -7,6 +7,7 @@
 example: 
 nodemon.json
 
+```yaml
 {
   "env": {
     "MONGO_USER": "testuser",
